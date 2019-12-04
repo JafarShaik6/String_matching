@@ -1,1 +1,1 @@
-# String_matching
+Write a code to match names from list1 (provided in the file: name matching -list1.xlsx) to list2 (name matching – list2.xlsx). The names in list1 have multiple variations of a name and map to exactly one name in list2. Also, provide an accuracy measure of the names matched.
